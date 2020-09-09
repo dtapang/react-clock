@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.timer{
+  border: 5px solid black;
+  padding: 10px 30px;
+  align-items: center;
+  width: max-content;
+  float: center;
+}
+
+
+.timer div{
+  align-items: center;
+  float: center;
+}
